@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Aleo:400,700|Roboto:300');
+
+body{
+	font-family: 'Aleo', serif;
+}
+
+p{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+}
+
+.rojito{
+	background:red;
+}
+
+.azulito{
+	background: blue;
+}
+.verde{
+	background: green;
+}
+.amarillo{
+	background: yellow;
+}
